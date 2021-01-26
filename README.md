@@ -3,7 +3,7 @@ Here we collect material for the peer-learning group Python for Beginners.
 
 ## Colab instructions for the kick-off
 
-To open the kick-off tutorial in colab, click on the link you received by email. 
+To open the kick-off tutorial in colab, click on the link you received by email. If you have trouble with your browser, switch to Chrome. 
 
 More info on using colab here:
 
