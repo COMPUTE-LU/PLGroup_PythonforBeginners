@@ -57,4 +57,5 @@ HubAI is a student network at Lund University that brings people from all discip
 
 ### Teachers
 [Sonja Aits](http://research.med.lu.se/sonja-aits) (COMPUTE study director, AI Lund steering group member)
+
 [Rafsan Ahmed](https://portal.research.lu.se/portal/en/persons/rafsan-ahmed(1f2fca16-7b7f-4010-b9dd-ba20b7693140).html) (PhD student)
