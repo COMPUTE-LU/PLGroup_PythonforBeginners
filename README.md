@@ -11,7 +11,7 @@ https://github.com/Aitslab/training/blob/master/tutorials/colab.md
 
 ## Connecting to the peer-learning group
 ### Step 1:
-After the kick-off  on Jan 26, you will be added to the "COMPUTE members" team on Microsoft Teams. After connecting, please click on the channel "PLG - Python for Beginners" and follow the welcome instructions. If you did not register with an LU student or employee address for the kick-off, you will receive an email with further instructions. 
+After the kick-off  on Jan 27, you will be added to the "COMPUTE members" team on Microsoft Teams. After connecting, please click on the channel "PLG - Python for Beginners" and follow the welcome instructions. If you did not register with an LU student or employee address for the kick-off, you will receive an email with further instructions. 
 
 Instructions for how to use Microsoft Teams can be found her: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
 
