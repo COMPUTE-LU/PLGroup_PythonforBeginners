@@ -54,5 +54,3 @@ AI Lund is an open interdisciplinary network for research, education and innovat
 
 ### HubAI
 HubAI is a student network at Lund University that brings people from all disciplines together to talk about Artificial Intelligence, through informal and formal events.
-
-
