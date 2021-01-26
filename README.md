@@ -3,7 +3,7 @@ Here we collect material for the peer-learning group Python for Beginners.
 
 ## Instructions for the kick-off
 
-At the kick-off we will present the first steps of python coding using the free google colab platform. To open the kick-off tutorial in colab, sign into a google account and click on the link you received by email. If you have trouble with your browser, switch to Chrome. When you enter the notebook for the first time, you should click “copy to drive”. That way, you can write and run your own code!
+At the kick-off we will present the first steps of python coding using the free google colab platform. To open the kick-off tutorial in colab, sign into a google account and click on the link you received by email. If you have trouble with your browser, switch to Chrome. When you enter the notebook for the first time, you should click “copy to drive”. That way, you can write and run your own code and save it!
 
 More info on how to use colab here:
 
