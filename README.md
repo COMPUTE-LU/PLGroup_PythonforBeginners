@@ -1,4 +1,4 @@
-# Python4Beginners
+# Peer-learning group "Python for Beginners"
 Here we collect material for and from the peer-learning group Python for Beginners
 
 Colab instructions
