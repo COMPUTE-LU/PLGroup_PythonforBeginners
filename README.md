@@ -43,5 +43,16 @@ Use the Teams channel to discuss with your peers, ask for help and report your p
 Check out additional Python self-learning material that complements the coursera course: https://github.com/Aitslab/training
 
 
-
+## Organizers
 This peer learning group is a joint activity of COMPUTE, AI Lund and HubAI.
+
+### COMPUTE Research School
+COMPUTE is a research school with a focus on scientific discovery using computing, but in the widest sense, meaning any research using digital tools or e-Science for short. COMPUTE brings together partners from several different departments at Lund University. It organizes PhD courses, seminars, workshops and other activities.
+
+### AI Lund
+AI Lund is an open interdisciplinary network for research, education and innovation in the field of Artificial Intelligence. It is coordinated by Lund University and open to members from academia, industry, public sector and other organisations.
+
+### HubAI
+HubAI is a student network at Lund University that brings people from all disciplines together to talk about Artificial Intelligence, through informal and formal events.
+
+
