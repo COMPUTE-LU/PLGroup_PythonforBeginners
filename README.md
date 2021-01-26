@@ -16,7 +16,7 @@ After the kick-off  on Jan 26, you will be added to the "COMPUTE members" team o
 Instructions for how to use Microsoft Teams can be found her: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
 
 ### Step 2 (LU PhD students and employees only):
-Please register for COMPUTE if you are not yet a member. To do this, simply submit the sign up form according to the instructions on the COMPUTE website: http://www.compute.lu.se/
+Please register for COMPUTE if you are not yet a member. To do this, simply submit the sign-up form according to the instructions on the COMPUTE website: http://www.compute.lu.se/
 
 If you are interested in additional activities related to artificial intelligence, you can also join AI Lund and/or HubAI:
 
@@ -34,7 +34,7 @@ https://www.coursera.org/learn/python-crash-course
 Then follow the course at your own pace.
 
 ### Step 4:
-Use the Teams channel to discuss with your peers, ask for help and report your progress. You can also share links, e.g. to your notebooks with coding projects or additional training material. Every second week we will also open a zoom meeting where you can meet (link is in the welcome message of the channel). You are free to organize additional meetings with the entire group or a few members, as it suits you. Once you have completed to course, get in touch with the group manager and we can move you to a "Python - Level 2" group.
+Use the Teams channel to discuss with your peers, ask for help and report your progress. You can also share links, e.g. to your notebooks with coding projects or additional training material. Every second week we will also open a zoom meeting where you can meet (link is in the welcome message of the channel). You are free to organize additional meetings with the entire group or a few members, as it suits you. Once you have completed to course, get in touch with the group manager and we can move you to a "Advanced Python" group.
 
 
 ### Step 5 (optional):
