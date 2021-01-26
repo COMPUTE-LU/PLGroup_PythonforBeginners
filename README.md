@@ -16,10 +16,10 @@ After the kick-off  on Jan 26, you will be added to the "COMPUTE members" team o
 Instructions for how to use Microsoft Teams can be found her: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
 
 ### Step 2:
-#### Lund University PhD students, Postdocs or employees:
+#### For Lund University PhD students, Postdocs or employees:
 To participate in the peer-learning group, you need to register as a COMPUTE member. To do this, simply submit the sign-up form according to the instructions on the COMPUTE website: http://www.compute.lu.se/
 
-#### LU Undergraduate students and people not affiliated with Lund University
+#### For LU Undergraduate students and people not affiliated with Lund University:
 To participate in the peer-learning group, you need to register as a member of AI Lund and/or HubAI:
 
 http://ai.lu.se/nwreg/
