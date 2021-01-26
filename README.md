@@ -50,7 +50,11 @@ This peer learning group is a joint activity of COMPUTE, AI Lund and HubAI.
 COMPUTE is a research school with a focus on scientific discovery using computing, but in the widest sense, meaning any research using digital tools or e-Science for short. COMPUTE brings together partners from several different departments at Lund University. It organizes PhD courses, seminars, workshops and other activities.
 
 ### AI Lund
-AI Lund is an open interdisciplinary network for research, education and innovation in the field of Artificial Intelligence. It is coordinated by Lund University and open to members from academia, industry, public sector and other organisations.
+AI Lund is an open interdisciplinary network for research, education and innovation in the field of Artificial Intelligence. It is coordinated by Lund University and open to members from academia, industry, public sector and other organisations. 
 
 ### HubAI
 HubAI is a student network at Lund University that brings people from all disciplines together to talk about Artificial Intelligence, through informal and formal events.
+
+### Teachers
+[Sonja Aits](http://research.med.lu.se/sonja-aits) (COMPUTE study director, AI Lund steering group member)
+[Rafsan Ahmed](https://portal.research.lu.se/portal/en/persons/rafsan-ahmed(1f2fca16-7b7f-4010-b9dd-ba20b7693140).html) (PhD student)
