@@ -1,11 +1,11 @@
 # Peer-learning group "Python for Beginners"
 Here we collect material for the peer-learning group Python for Beginners.
 
-## Colab instructions for the kick-off
+## Instructions for the kick-off
 
-To open the kick-off tutorial in colab, click on the link you received by email. If you have trouble with your browser, switch to Chrome. 
+At the kick-off we will present the first steps of python coding using the free google colab platform. To open the kick-off tutorial in colab, click on the link you received by email. If you have trouble with your browser, switch to Chrome. 
 
-More info on using colab here:
+More info on how to use colab here:
 
 https://github.com/Aitslab/training/blob/master/tutorials/colab.md
 
