@@ -13,9 +13,10 @@ https://github.com/Aitslab/training/blob/master/tutorials/colab.md
 ### Step 1:
 After the kick-off  on Jan 27, you will be added to the "COMPUTE members" team on Microsoft Teams. After connecting, please click on the channel "PLG - Python for Beginners" and follow the welcome instructions. If you did not register with an LU student or employee address for the kick-off, you will receive an email with further instructions. 
 
-Instructions for how to use Microsoft Teams can be found her: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
+For those who already have Python skills too advanced for this beginner group (e.g. those who have completed the COMPUTE Python courses) we will also start a peer-learning group "Advanced Python". Please get in touch with Sonja, if you prefer to join this group.
 
-For those who already have Python skills too advanced for this beginner group (e.g. those who have completed the COMPUTE Python courses) we will also start a peer-learning group "Advanced Python". Please get in touch with Sonja, if you prefer this group.
+Instructions for how to use Microsoft Teams can be found here: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
+
 
 ### Step 2:
 #### For Lund University PhD students, Postdocs or employees:
