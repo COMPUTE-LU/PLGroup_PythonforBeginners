@@ -40,8 +40,16 @@ Use the Teams channel to discuss with your peers, ask for help and report your p
 
 
 ### Step 5 (optional):
-Check out additional Python self-learning material that complements the coursera course: https://github.com/Aitslab/training
+For those interested in formal PhD courses with credits, COMPUTE offers three courses related to Python (more details on http://www.compute.lu.se/courses/):
 
+- Reproducible and Interactive Data Analysis and Modelling Using Jupyter Notebooks (4 ECTS, likely starting in March 2021; course material from last iteration here: https://github.com/mlund/jupyter-course) 
+- Scientific Computing with Python and Fortran (7.5 ECTS, next date to be determined)
+- Introduction to Python (study period II, 7.5 ECTS, next date to be determined)
+
+
+In addition you can check out additional Python self-learning material listed here: 
+
+https://github.com/Aitslab/training
 
 ## Organizers
 This peer learning group is a joint activity of COMPUTE, AI Lund and HubAI.
