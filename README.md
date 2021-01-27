@@ -3,7 +3,7 @@ Here we collect material for the peer-learning group Python for Beginners at Lun
 
 ## Instructions for the kick-off
 
-At the kick-off we will go through the organization of the peer-learning group and Rafsan Ahmed will present the first steps of python coding using the free google colab platform. To open the kick-off tutorial in colab, sign into a google account and click on this link: https://colab.research.google.com/drive/12xmrNMAn1yj7B8wks2n001OhMio0wwDa#offline=true&sandboxMode=true. If you have trouble with your browser, switch to Chrome. When you enter the notebook for the first time, you should click “copy to drive”. That way, you can write and run your own code and save it!
+At the kick-off we will go through the organization of the peer-learning group and Rafsan Ahmed will present the first steps of python coding using the free google colab platform. To open the kick-off tutorial in colab, sign into a google account and click on this link: https://colab.research.google.com/drive/12xmrNMAn1yj7B8wks2n001OhMio0wwDa#offline=true&sandboxMode=true. If you have trouble with your browser, switch to Chrome. When you enter the notebook for the first time, you should click “copy to drive”. That way, you can write and run your own code and save it for the future (the link will become inactive).
 
 More info on how to use colab here:
 
