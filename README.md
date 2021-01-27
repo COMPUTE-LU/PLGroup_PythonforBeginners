@@ -1,5 +1,5 @@
 # Peer-learning group "Python for Beginners"
-Here we collect material for the peer-learning group Python for Beginners at Lund University. In case of questions, please contact the COMPUTE study director Sonja Aits who manages the group at compute[at]fysik.lu.se.
+Here we collect material for the peer-learning group Python for Beginners at Lund University. In case of questions, please contact the COMPUTE study director Sonja Aits who manages the group at compute[at]fysik.lu.se. Please note that no credits will be given for taking part in this peer-learning group.
 
 ## Instructions for the kick-off
 
