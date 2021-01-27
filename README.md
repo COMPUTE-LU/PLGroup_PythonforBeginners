@@ -15,6 +15,8 @@ After the kick-off  on Jan 27, you will be added to the "COMPUTE members" team o
 
 Instructions for how to use Microsoft Teams can be found her: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
 
+For those who already have Python skills too advanced for this beginner group (e.g. those who have completed the COMPUTE Python courses) we will also start a peer-learning group "Advanced Python". Please get in touch with Sonja, if you prefer this group.
+
 ### Step 2:
 #### For Lund University PhD students, Postdocs or employees:
 To participate in the peer-learning group, you need to register as a COMPUTE member. To do this, simply submit the sign-up form according to the instructions on the COMPUTE website: http://www.compute.lu.se/
@@ -44,7 +46,7 @@ For those interested in formal PhD courses with credits, COMPUTE offers three co
 
 - Reproducible and Interactive Data Analysis and Modelling Using Jupyter Notebooks (4 ECTS, likely starting in March 2021; course material from last iteration here: https://github.com/mlund/jupyter-course) 
 - Scientific Computing with Python and Fortran (7.5 ECTS, next date to be determined)
-- Introduction to Python (study period II, 7.5 ECTS, next date to be determined)
+- Introduction to Python (7.5 ECTS, next date to be determined)
 
 
 In addition you can check out additional Python self-learning material listed here: 
