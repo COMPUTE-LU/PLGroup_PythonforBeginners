@@ -2,13 +2,13 @@
 Here we collect material for the peer-learning group Python for Beginners at Lund University. In case of questions, please contact the COMPUTE study director Sonja Aits who manages the group at compute[at]fysik.lu.se. Please note that no credits will be given for taking part in this peer-learning group.
 
 ## Kick-off
-A video of the kick-off which took place on Jan 27, 2021 can be found here: https://youtu.be/yDNBdB59J1s
+A video of the kick-off which took place on Jan 27, 2021 can be found here: https://youtu.be/yDNBdB59J1s. 
 
-At the kick-off we went through the organization of the peer-learning group and Rafsan Ahmed presented the first steps of python coding using the free google colab platform. To open the kick-off tutorial in colab, sign into a google account and click on this link: https://colab.research.google.com/drive/12xmrNMAn1yj7B8wks2n001OhMio0wwDa#offline=true&sandboxMode=true. If you have trouble with your browser, switch to Chrome. When you enter the notebook for the first time, you should click “copy to drive”. That way, you can write and run your own code and save it for the future (the link will become inactive). 
+At the kick-off we went through the organization of the peer-learning group and Rafsan Ahmed presented the first steps of python coding using the free google colab platform. A copy of the colab tutorial can be found in this repo. You can open it in colab from your google drive (more info on how to do that here: https://github.com/Aitslab/training/blob/master/tutorials/colab.md). Or you can open it locally on your computer as any Jupyter notebook. 
 
 More info on how to use colab here:
 
-https://github.com/Aitslab/training/blob/master/tutorials/colab.md
+
 
 ## Connecting to the peer-learning group
 ### Step 1:
