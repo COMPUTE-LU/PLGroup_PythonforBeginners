@@ -24,7 +24,7 @@ For those who already have Python skills too advanced for this beginner group (e
 
 Instructions for how to use Microsoft Teams can be found here: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
 
-## Step 3:
+### Step 3:
 Please watch the video from the kick-off which took place on Jan 27, 2021 can be found here: https://youtu.be/yDNBdB59J1s. 
 
 At the kick-off we went through the organization of the peer-learning group and Rafsan Ahmed presented the first steps of python coding using the free google colab platform. A copy of the colab tutorial can be found in this repo (https://github.com/COMPUTE-LU/PLGroup_PythonforBeginners/blob/main/kickoff_tutorial_20210127.ipynb). You can open it in colab from your google drive (more info on how to do that here: https://github.com/Aitslab/training/blob/master/tutorials/colab.md). Or you can open it locally on your computer as any Jupyter notebook. 
