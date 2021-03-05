@@ -39,7 +39,7 @@ Then follow the course at your own pace.
 ### Step 5:
 Use the Teams channel to discuss with your peers, ask for help and report your progress. You can also share links, e.g. to your notebooks with coding projects or additional training material. Every second week we will also open a zoom meeting where you can meet (link is in the welcome message of the channel). You are free to organize additional meetings with the entire group or a few members, as it suits you. Once you have completed to course, get in touch with the group manager and we can move you to a "Advanced Python" group.
 
-### Step65 (optional):
+### Step6 (optional):
 For those interested in formal PhD courses with credits, COMPUTE offers three courses related to Python (more details on http://www.compute.lu.se/courses/):
 
 - Reproducible and Interactive Data Analysis and Modelling Using Jupyter Notebooks (4 ECTS, next date March 22-26; course material here: https://github.com/mlund/jupyter-course) 
