@@ -1,26 +1,10 @@
 # Peer-learning group "Python for Beginners"
 Here we collect material for the peer-learning group Python for Beginners at Lund University. If you have any questions, please contact the COMPUTE study director Sonja Aits who manages the group at compute[at]fysik.lu.se. Please note that no credits will be given for taking part in this peer-learning group.
 
-## Joining the peer-learning group after the kick-off
-It is still possible to join the peer-learning group even if you missed the kick-off. Please register by emailing to compute[at]fysik.lu.se.
+## Joining the peer-learning group
+It is possible to join the peer-learning group anytime. Please register by emailing to compute[at]fysik.lu.se. After that, these are the next steps:
 
-
-## Kick-off
-A video of the kick-off which took place on Jan 27, 2021 can be found here: https://youtu.be/yDNBdB59J1s. 
-
-At the kick-off we went through the organization of the peer-learning group and Rafsan Ahmed presented the first steps of python coding using the free google colab platform. A copy of the colab tutorial can be found in this repo (https://github.com/COMPUTE-LU/PLGroup_PythonforBeginners/blob/main/kickoff_tutorial_20210127.ipynb). You can open it in colab from your google drive (more info on how to do that here: https://github.com/Aitslab/training/blob/master/tutorials/colab.md). Or you can open it locally on your computer as any Jupyter notebook. 
-
-
-## Connecting to the peer-learning group
 ### Step 1:
-After the kick-off  on Jan 27, you will be added to the "COMPUTE members" team on Microsoft Teams. After connecting, please click on the channel "PLG - Python for Beginners" and follow the welcome instructions. If you did not register with an LU student or employee address for the kick-off, you will receive an email with further instructions. 
-
-For those who already have Python skills too advanced for this beginner group (e.g. those who have completed the COMPUTE Python courses) we will also start a peer-learning group "Advanced Python". Please get in touch with Sonja, if you prefer to join this group.
-
-Instructions for how to use Microsoft Teams can be found here: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
-
-
-### Step 2:
 #### For Lund University PhD students, Postdocs or employees:
 To participate in the peer-learning group, you need to register as a COMPUTE member. To do this, simply submit the sign-up form according to the instructions on the COMPUTE website: http://www.compute.lu.se/
 
@@ -33,21 +17,32 @@ https://www.facebook.com/HubAILund.
 
 https://www.linkedin.com/company/hubai
 
-### Step 3:
+### Step 2:
+After your registration, we will add you to the "COMPUTE members" team on Microsoft Teams. After connecting, please click on the channel "PLG - Python for Beginners" and follow the welcome instructions.
+
+For those who already have Python skills too advanced for this beginner group (e.g. those who have completed the COMPUTE Python courses) we will also start a peer-learning group "Advanced Python". Please get in touch with Sonja, if you prefer to join this group.
+
+Instructions for how to use Microsoft Teams can be found here: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
+
+## Step 3:
+Please watch the video from the kick-off which took place on Jan 27, 2021 can be found here: https://youtu.be/yDNBdB59J1s. 
+
+At the kick-off we went through the organization of the peer-learning group and Rafsan Ahmed presented the first steps of python coding using the free google colab platform. A copy of the colab tutorial can be found in this repo (https://github.com/COMPUTE-LU/PLGroup_PythonforBeginners/blob/main/kickoff_tutorial_20210127.ipynb). You can open it in colab from your google drive (more info on how to do that here: https://github.com/Aitslab/training/blob/master/tutorials/colab.md). Or you can open it locally on your computer as any Jupyter notebook. 
+
+### Step 4:
 Sign up for the "Crash Course on Python" on coursera. Choose the "Audit the course" option so it is for free.
 
 https://www.coursera.org/learn/python-crash-course
  
 Then follow the course at your own pace.
 
-### Step 4:
+### Step 5:
 Use the Teams channel to discuss with your peers, ask for help and report your progress. You can also share links, e.g. to your notebooks with coding projects or additional training material. Every second week we will also open a zoom meeting where you can meet (link is in the welcome message of the channel). You are free to organize additional meetings with the entire group or a few members, as it suits you. Once you have completed to course, get in touch with the group manager and we can move you to a "Advanced Python" group.
 
-
-### Step 5 (optional):
+### Step65 (optional):
 For those interested in formal PhD courses with credits, COMPUTE offers three courses related to Python (more details on http://www.compute.lu.se/courses/):
 
-- Reproducible and Interactive Data Analysis and Modelling Using Jupyter Notebooks (4 ECTS, likely starting in March 2021; course material from last iteration here: https://github.com/mlund/jupyter-course) 
+- Reproducible and Interactive Data Analysis and Modelling Using Jupyter Notebooks (4 ECTS, next date March 22-26; course material here: https://github.com/mlund/jupyter-course) 
 - Scientific Computing with Python and Fortran (7.5 ECTS, next date to be determined)
 - Introduction to Python (7.5 ECTS, next date to be determined)
 
